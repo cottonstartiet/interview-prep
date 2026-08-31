@@ -1,0 +1,12 @@
+{
+    "github.copilot.enable": {
+        "*": false,
+        "csharp": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "github.copilot.editor.enableAutoCompletions": false,
+    "github.copilot.chat.enabled": false,
+    "github.copilot.inlineSuggest.enable": false
+}
